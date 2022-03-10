@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a general software engineer with interests in Video Games (and their engines), Programming language Compiler and Virtual Machines, WebAssembly and UI framework engineering.
+I am an [author](https://www.packtpub.com/product/lve-for-lua-game-programming/9781782161608) and  generalist software engineer with interests in Video Games (and their engines), Programming language Compiler and Virtual Machines, WebAssembly and UI framework engineering.
 
 - 🔭 I’m currently working on [ZenFlo](https://github.com/zenturi/zenflo), a library and runtime for developing no-code platforms based on Flow-Based Programming concepts.
 - 🌱 I’m currently learning **Advanced Design and Implementation of Virtual Machines** by Xiao-Feng Li
