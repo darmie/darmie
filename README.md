@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am an [author](https://www.packtpub.com/product/lve-for-lua-game-programming/9781782161608) and  generalist software engineer with interests in Video Games (and their engines), Programming language Compiler and Virtual Machines, WebAssembly and UI framework engineering.
+I am an [author](https://www.packtpub.com/product/lve-for-lua-game-programming/9781782161608) and  generalist software engineer with interests in Video Games (and their engines), Programming language Compiler and Virtual Machines, Agentic systems engineering.
 
-- 🔭 I’m currently working on [zflow](https://github.com/darmie/zflow), a library and runtime for developing no-code platforms based on Flow-Based Programming concepts.
-- 🌱 I’m currently learning **Advanced Design and Implementation of Virtual Machines** by Xiao-Feng Li
+- 🔭 I’m currently working on [reflow](https://github.com/offbit-ai/reflow) and [zeal](https://github.com/offbit-ai/zeal, a runtime and editor for developing no-code/low-code applications.
+- 🌱 I’m currently build Agentic AI systems.
 - 👯 I’m looking to collaborate on exciting projects
-- 💬 Ask me about **WebAssembly**  & **No-Code**
+- 💬 Ask me about **AI Agents** and **Robotic Process Automation**
 - ⚡ Fun fact: I love Coffee, Anime.
 
 <!--
