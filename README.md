@@ -6,7 +6,6 @@ I am a generalist software engineer with interests in Video Games (and their eng
 - 🤖 I’m currently building Agentic AI systems.
 - 🎨 I'm currently building a reactive UI framework [Blinc](https://github.com/project-blinc/Blinc)
 - 🏂 I'm currently building programming language runtimes [zyntax](https://github.com/darmie/zyntax) / [rayzor](https://github.com/darmie/rayzor)
-- 💻 I'm developing an Operating System with [KAAL](https://github.com/darmie/kaal) micro-kernel
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about **AI Agents** and **Robotic Process Automation**
 - ⚡ Fun fact: I love Coffee, Anime.
