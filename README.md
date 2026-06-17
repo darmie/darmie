@@ -5,7 +5,7 @@ I'm a generalist software engineer drawn to the low-level and the experimental �
 - 🔭 Building [reflow](https://github.com/offbit-ai/reflow) & [zeal](https://github.com/offbit-ai/zeal) — a runtime and editor for no-code/low-code applications
 - 🤖 Designing agentic AI systems
 - 🎨 Working on [Blinc](https://github.com/project-blinc/Blinc), a reactive UI framework
-- ⚙️ Crafting programming language runtimes — [zyntax](https://github.com/zyntax-project/zyntax) & [rayzor](https://github.com/rayzor-blade/rayzor)
+- ⚙️ Crafting programming language runtimes — [zyntax](https://github.com/zyntax-project/zyntax), [rayzor](https://github.com/rayzor-blade/rayzor), [wrenlift](http://github.com/wrenlift/WrenLift)
 - 👯 Open to collaborating on ambitious projects
 - 💬 Ask me about **AI Agents** and **Robotic Process Automation**
 - ⚡ Fun fact: powered by coffee and anime
